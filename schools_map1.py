@@ -11,7 +11,6 @@ Map 1) Graduation rate for Women is over 50%
 
 """
 
-
 import json
 import csv
 
